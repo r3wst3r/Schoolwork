@@ -3,4 +3,4 @@
 
 Dependancies: SFML
 
-It's messy and I've only got the source code and debug files. Will push the full project folder by COB Fri 06 Nov 2020
+It's messy and I've only got the source code and debug files from my laptop. Will push the full project folder from desktop by COB Fri 06 Nov 2020
